@@ -50,11 +50,9 @@ It's Completely Safe to use because everything is reversible
 Most of its setting took affect globally in windows but few setting only affect the current user (like debloating, dark/light mode, startmenu tiles cleanup, deleting temp files etc), it's recommended to use it seperately on other local user account. <br /> <br />
 After windows Feature update, most of the bloatware gets reinstalled and some of the setting get restored. To outcome this, use windows toolbox again.
 
-## Reporting a Vulnerability
-
+# Reporting a Vulnerability
 # CONTAINS CRYPTIC CODE - MALWARE:
 ## https://archive.ph/3giKL
-
 ## https://web.archive.org/web/20220409165432/
 
 # Malware Removal tool:
