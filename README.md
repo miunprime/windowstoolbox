@@ -51,8 +51,8 @@ Most of its setting took affect globally in windows but few setting only affect 
 After windows Feature update, most of the bloatware gets reinstalled and some of the setting get restored. To outcome this, use windows toolbox again.
 
 ### Reporting a Vulnerability
-# Contains Crytical Code - MALWARE:
-https://archive.ph/3giKL
+# Contains Crytic Code - MALWARE:
+https://archive.ph/3giKL </br>
 https://web.archive.org/web/20220409165432/
 
 # Malware Removal tool:
